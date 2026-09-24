@@ -188,3 +188,6 @@ test('Find minimum price', async ({ page }) => {
 });
 
 
+// test ('Find minimum price in Kids T-shirts', async ({ page }) => {
+
+//     await page.goto('https://www.myntra.com/kids-tshirts');
