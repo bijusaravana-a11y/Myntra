@@ -188,4 +188,11 @@ test('Find minimum price', async ({ page }) => {
 });
 
 
-console.log ("This change from Master code");
+
+// console.log ("This change from Master code");
+// test ('Find minimum price in Kids T-shirts', async ({ page }) => {
+
+//     await page.goto('https://www.myntra.com/kids-tshirts');
+
+console.log("This change from Login-test")
+// login-test
